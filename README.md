@@ -138,20 +138,18 @@ The system will generate a feasibility report based on retrieved evidence.
 
 Example Output (Simplified)
 
-Startup Feasibility Report:
+ Startup Feasibility Report:
 
 1. Market Demand: Not present in evidence
-2. Competition Level: High competition in SaaS markets
+2. Competition Level: Existing AI solutions are present, implying some level of competition, but the extent is not specified.
 3. Key Risks:
-   - Lack of product-market fit
-   - High customer acquisition cost
-   - Ignoring user feedback
-4. Evidence-Based Verdict: Insufficient evidence to fully assess feasibility.
+   - Colleges and universities may resist frequent technology changes due to training and administrative overhead.
+   - Data privacy and student information protection are important concerns.
+   - Access to high-quality, domain-specific data for training and validation is required.     
+4. Evidence-Based Verdict: Insufficient evidence to fully assess the feasibility of the startup idea, as key information such as market demand is not provided.
 
 ---
-Note: This feasibility analysis is generated using a limited, curated knowledge base and
-is intended to demonstrate how Retrieval-Augmented Generation (RAG) systems reason over
-available evidence.
+Note: This feasibility analysis is generated using a limited, curated knowledge base and is intended to demonstrate how Retrieval-Augmented Generation (RAG) systems reason over available evidence. The output should be interpreted as decision support, not as a definitive market or business assessment.
 
 
 
