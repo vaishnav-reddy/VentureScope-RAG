@@ -152,4 +152,33 @@ Example Output (Simplified)
 Note: This feasibility analysis is generated using a limited, curated knowledge base and is intended to demonstrate how Retrieval-Augmented Generation (RAG) systems reason over available evidence. The output should be interpreted as decision support, not as a definitive market or business assessment.
 
 
+### Project Status
+
+This project is intentionally maintained as a prototype.
+
+- No UI or deployment is included by design
+
+- Focus is placed on RAG concepts, evidence grounding, and uncertainty handling
+
+Possible future enhancements (optional):
+
+- UI integration
+
+- Expanded domain-specific knowledge sources
+
+- Evidence coverage or confidence scoring
+
+- Citation-level traceability
+
+## Key Learning Outcomes
+
+- Understanding Retrieval-Augmented Generation (RAG)
+
+- Semantic search using vector databases
+
+- Evidence-grounded reasoning with LLMs
+
+- Responsible handling of uncertainty in AI systems
+
+
 
