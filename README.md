@@ -153,7 +153,7 @@ Note: This feasibility analysis is generated using a limited, curated knowledge 
 
 ---
 
-### Project Status
+## Project Status
 
 This project is intentionally maintained as a prototype.
 
