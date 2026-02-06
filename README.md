@@ -148,9 +148,9 @@ Example Output (Simplified)
    - Access to high-quality, domain-specific data for training and validation is required.     
 4. Evidence-Based Verdict: Insufficient evidence to fully assess the feasibility of the startup idea, as key information such as market demand is not provided.
 
----
-Note: This feasibility analysis is generated using a limited, curated knowledge base and is intended to demonstrate how Retrieval-Augmented Generation (RAG) systems reason over available evidence. The output should be interpreted as decision support, not as a definitive market or business assessment.
 
+Note: This feasibility analysis is generated using a limited, curated knowledge base and is intended to demonstrate how Retrieval-Augmented Generation (RAG) systems reason over available evidence. The output should be interpreted as decision support, not as a definitive market or business assessment.
+---
 
 ### Project Status
 
