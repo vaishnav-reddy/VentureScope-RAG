@@ -126,11 +126,12 @@ GROQ_API_KEY=your_groq_api_key_here
 Make sure .env is listed in .gitignore.
 
 ### Step 5: Run the Application
-
+```
 python venturescope.py
-
+```
 ### Step 6: Enter a Startup Idea
-Example:
+## Example:
+
  Enter your startup idea: AI-based attendance system for colleges in India
 
 The system will generate a feasibility report based on retrieved evidence.
